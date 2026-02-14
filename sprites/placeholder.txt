@@ -1,0 +1,6 @@
+sprites/player.png
+sprites/fighter.png
+sprites/bomber.png
+sprites/hybrid.png
+sprites/boss.png
+sprites/clouds.png
