@@ -1,0 +1,5 @@
+sounds/laser.wav
+sounds/explosion.wav
+sounds/powerup.wav
+sounds/music.mp3
+
